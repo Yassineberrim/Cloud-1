@@ -1,0 +1,8 @@
+secrets/
+*.pem
+*.key
+.vault_pass
+vault.yml
+.env
+.DS_Store
+docs/subject.pdf
